@@ -6,7 +6,7 @@ FR
 
 --mettre le fichier brasseur dans votre fichier esx_job dans le fichier job
 
---ajouter dans le fichier _ressource la ligne 'jobs/basseur.lua', sous le client_scripts comme les autres
+--ajouter dans le fichier _ressource la ligne 'jobs/brasseur.lua', sous le client_scripts comme les autres
 
 --ajouter la traduction fr dans le dossier locales au ficher fr.lua
 
