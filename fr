@@ -1,0 +1,13 @@
+
+  -- Basseur
+  ['c_brasserie']               = 'Entreprise La Brasserie',
+  ['c_champorg']                = 'champs l\'orge',
+  ['c_orge']                    = 'l\'orge germé',
+  ['c_ramas_button']            = 'appuyez sur ~INPUT_PICKUP~ pour récupérer.',
+  ['c_fut_biere']               = 'Brassage de la biére',
+  ['c_fut_biere_button']        = 'appuyez sur ~ INPUT_PICKUP ~ pour le brassage.',
+  ['c_bbiere_mixture']          = 'Mise en bouteille',
+  ['c_bbiere']                  = 'Bouteille de biére',
+  ['c_brasse_button']           = 'appuyez sur ~INPUT_PICKUP~ pour Mise en Bouteille.',
+  ['c_deliver_bout']            = "appuyez sur ~INPUT_PICKUP~ pour livrer les bouteilles.",
+  ['c_vent_biere']              = 'négociant en biére',
